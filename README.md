@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Moshiur Rahman</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center"> AI Automation Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moshiurcodes&label=Profile%20views&color=0e75b6&style=flat" alt="moshiurcodes" /> </p>
 
-- 🔭 I’m currently working on **online voting system project**
+- 🔭 I’m currently working on **building Multi-Agent AI Systems and the 99 Days of Coding challenge (AI, ML & MLOps)**
 
-- 🌱 I’m currently learning **cybersecurity**
+- 🌱 I’m currently learning **AI and ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
